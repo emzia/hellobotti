@@ -1,0 +1,12 @@
+{
+  "name": "hello-botti",
+  "version": "1.0.0",
+  "description": "better than you",
+  "main": "bot.js",
+  "author": "emzi",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "npm": "^5.8.0",
+    "winston": "^2.4.2"
+  }
+}
